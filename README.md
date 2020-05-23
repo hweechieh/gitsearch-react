@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# searchUser
+
+Implement Github API to get user's repository.
+A quirky site where users can search for a user on Github by inputting their username.
+
+Future improvements:
+· Continue with traversing pagination in Github API to view all repositories page after page.
+· Include more validations to handle errors more effectively and elegantly.
+
 ## Available Scripts
 
 In the project directory, you can run:

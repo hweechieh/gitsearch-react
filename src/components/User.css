@@ -1,0 +1,22 @@
+.user-container {
+  font-family: "DM Mono", monospace;
+  margin-top: 50px;
+  display: block;
+  text-align: center;
+}
+
+.login-name {
+  font-family: "DM Mono", monospace;
+  color: rgb(255, 23, 185);
+  letter-spacing: 0.2em;
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.repo,
+.updated {
+  padding-top: 5px;
+  font-size: 16px;
+  font-weight: 500;
+  color: rgb(255, 73, 201);
+}

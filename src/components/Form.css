@@ -1,0 +1,40 @@
+.form {
+  display: block;
+  text-align: center;
+  padding-top: 20px;
+}
+
+input[type="text"] {
+  font-family: "DM Mono", monospace;
+  font-size: 14px;
+  color: rgb(255, 73, 201);
+  letter-spacing: 2px;
+  background-color: rgb(237, 255, 70);
+  border: 5px solid rgb(255, 73, 201);
+  box-sizing: border-box;
+  outline: none;
+  padding: 12px 10px;
+  width: 24%;
+}
+
+.gif-container {
+  text-align: center;
+}
+
+.search-btn {
+  font-family: "DM Mono", monospace;
+  font-size: 14px;
+  background-color: rgb(243, 255, 82);
+  border: 5px solid rgb(255, 73, 201);
+  border-left: 0;
+  padding: 12px 14px;
+  outline: none;
+}
+
+.search-gif:not(:first-child) {
+  margin-left: 50px;
+}
+
+.search-gif {
+  cursor: initial;
+}
